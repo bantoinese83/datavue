@@ -1,0 +1,101 @@
+Product ID,Product Name,Category,Price,Stock Quantity,Sold Quantity
+1,Product 0,Toys & Games,394.46,62,658
+2,Product 1,Books,408.78,19,744
+3,Product 2,Toys & Games,274.72,88,720
+4,Product 3,Toys & Games,259.41,19,341
+5,Product 4,Clothing,88.55,40,896
+6,Product 5,Electronics,380.4,39,80
+7,Product 6,Clothing,148.65,88,517
+8,Product 7,Books,424.78,83,683
+9,Product 8,Toys & Games,62.19,47,196
+10,Product 9,Books,482.46,98,479
+11,Product 10,Clothing,477.03,16,217
+12,Product 11,Clothing,10.32,36,945
+13,Product 12,Toys & Games,321.58,90,554
+14,Product 13,Toys & Games,95.52,92,569
+15,Product 14,Clothing,362.17,66,953
+16,Product 15,Home & Kitchen,272.48,0,140
+17,Product 16,Books,338.53,50,691
+18,Product 17,Electronics,259.35,26,850
+19,Product 18,Clothing,120.6,15,662
+20,Product 19,Electronics,412.59,22,123
+21,Product 20,Home & Kitchen,493.76,8,290
+22,Product 21,Books,79.87,16,212
+23,Product 22,Home & Kitchen,120.21,68,0
+24,Product 23,Home & Kitchen,470.98,38,208
+25,Product 24,Toys & Games,451.93,53,939
+26,Product 25,Electronics,436.53,37,948
+27,Product 26,Electronics,330.37,9,278
+28,Product 27,Electronics,352.47,17,248
+29,Product 28,Toys & Games,201.67,85,162
+30,Product 29,Books,200.14,8,189
+31,Product 30,Books,200.64,48,823
+32,Product 31,Home & Kitchen,421.26,78,915
+33,Product 32,Clothing,375.53,35,837
+34,Product 33,Books,328.44,36,450
+35,Product 34,Clothing,472.24,96,44
+36,Product 35,Toys & Games,79.87,20,79
+37,Product 36,Clothing,307.15,73,179
+38,Product 37,Home & Kitchen,263.55,89,329
+39,Product 38,Electronics,287.53,23,805
+40,Product 39,Clothing,450.56,25,600
+41,Product 40,Home & Kitchen,168.69,4,186
+42,Product 41,Toys & Games,489.86,3,251
+43,Product 42,Books,424.46,88,868
+44,Product 43,Books,30.89,4,628
+45,Product 44,Toys & Games,409.13,63,617
+46,Product 45,Home & Kitchen,162.13,84,548
+47,Product 46,Books,326.55,28,175
+48,Product 47,Clothing,94.42,83,234
+49,Product 48,Clothing,89.09,31,69
+50,Product 49,Toys & Games,336.47,30,521
+51,Product 50,Clothing,342.96,57,146
+52,Product 51,Clothing,405.26,4,11
+53,Product 52,Electronics,433.4,72,680
+54,Product 53,Electronics,92.11,29,757
+55,Product 54,Books,135.42,66,878
+56,Product 55,Books,297.42,11,377
+57,Product 56,Home & Kitchen,177.84,90,585
+58,Product 57,Electronics,196.31,74,909
+59,Product 58,Toys & Games,348.17,85,109
+60,Product 59,Toys & Games,218.71,32,458
+61,Product 60,Electronics,408.47,26,154
+62,Product 61,Books,248.28,64,620
+63,Product 62,Toys & Games,74.44,53,499
+64,Product 63,Clothing,482.77,11,156
+65,Product 64,Electronics,243.58,97,852
+66,Product 65,Electronics,243.89,34,225
+67,Product 66,Toys & Games,376.99,69,353
+68,Product 67,Electronics,217.98,99,82
+69,Product 68,Toys & Games,289.63,48,99
+70,Product 69,Books,341.15,26,669
+71,Product 70,Home & Kitchen,154.93,27,162
+72,Product 71,Home & Kitchen,371.32,55,33
+73,Product 72,Home & Kitchen,242.85,49,954
+74,Product 73,Home & Kitchen,490.21,40,899
+75,Product 74,Home & Kitchen,332.54,10,276
+76,Product 75,Electronics,115.66,63,965
+77,Product 76,Home & Kitchen,149.14,24,271
+78,Product 77,Toys & Games,439.07,43,731
+79,Product 78,Electronics,379.26,49,610
+80,Product 79,Toys & Games,173.76,40,55
+81,Product 80,Books,320.69,25,748
+82,Product 81,Toys & Games,49.16,24,380
+83,Product 82,Clothing,96.43,72,910
+84,Product 83,Books,59.06,1,706
+85,Product 84,Clothing,154.31,33,618
+86,Product 85,Electronics,339.34,14,47
+87,Product 86,Books,121.79,14,267
+88,Product 87,Clothing,219.69,59,322
+89,Product 88,Toys & Games,287.33,11,812
+90,Product 89,Electronics,228.87,40,337
+91,Product 90,Electronics,66.65,78,112
+92,Product 91,Toys & Games,231.19,30,785
+93,Product 92,Home & Kitchen,139.23,0,966
+94,Product 93,Home & Kitchen,482.17,66,551
+95,Product 94,Books,453.58,78,239
+96,Product 95,Electronics,35.67,71,708
+97,Product 96,Clothing,497.85,64,57
+98,Product 97,Home & Kitchen,102.2,25,136
+99,Product 98,Electronics,75.65,92,101
+100,Product 99,Books,103.47,64,987

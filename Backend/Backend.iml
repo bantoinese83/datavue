@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.10 (DataVue 2)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PackageRequirementsSettings">
+    <option name="modifyBaseFiles" value="true" />
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="94e9028c-8d16-43c3-9998-3b8483e0be59" />
+  </component>
+</module>

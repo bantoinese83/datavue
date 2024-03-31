@@ -1,0 +1,101 @@
+Patient ID,Age,Gender,Diagnosis,Treatment,Last Visit Date,Outcome
+1,23,Female,Cancer,Surgery,2010-03-13,Recovered
+2,65,Female,Cancer,Physical Therapy,2016-08-11,Deceased
+3,64,Male,Heart Disease,Medication,2014-02-13,Worsened
+4,48,Male,Heart Disease,Surgery,2020-01-31,Deceased
+5,54,Male,Cancer,Physical Therapy,2019-04-03,Stable
+6,79,Female,Diabetes,None,2011-07-16,Deceased
+7,31,Male,Cancer,Physical Therapy,2010-04-07,Worsened
+8,54,Female,Diabetes,Chemotherapy,2013-08-20,Deceased
+9,67,Male,Heart Disease,Medication,2018-01-30,Deceased
+10,64,Male,Diabetes,None,2020-12-31,Stable
+11,51,Male,COVID-19,Physical Therapy,2022-07-27,Worsened
+12,43,Male,Hypertension,Surgery,2016-09-10,Recovered
+13,57,Female,Hypertension,None,2021-01-17,Deceased
+14,65,Male,Hypertension,Medication,2012-01-28,Stable
+15,46,Female,COVID-19,Chemotherapy,2022-12-16,Improved
+16,38,Female,Diabetes,Medication,2021-12-10,Worsened
+17,54,Male,Heart Disease,Surgery,2017-04-07,Recovered
+18,26,Male,Cancer,Medication,2017-12-28,Recovered
+19,33,Female,Hypertension,None,2017-01-02,Improved
+20,77,Male,Heart Disease,Chemotherapy,2018-04-07,Deceased
+21,70,Female,COVID-19,None,2022-09-11,Deceased
+22,76,Female,Cancer,Chemotherapy,2011-12-18,Worsened
+23,50,Female,Cancer,None,2012-10-11,Improved
+24,51,Female,Hypertension,Chemotherapy,2012-04-30,Worsened
+25,63,Female,COVID-19,Physical Therapy,2017-08-26,Improved
+26,63,Female,COVID-19,Chemotherapy,2010-06-05,Deceased
+27,73,Female,Diabetes,Physical Therapy,2018-10-17,Improved
+28,79,Female,Heart Disease,Surgery,2022-11-01,Recovered
+29,62,Male,Diabetes,Chemotherapy,2014-11-26,Deceased
+30,33,Female,COVID-19,None,2018-09-21,Improved
+31,50,Male,Hypertension,Physical Therapy,2012-02-07,Recovered
+32,44,Female,Diabetes,Chemotherapy,2019-03-05,Stable
+33,42,Female,Heart Disease,None,2014-09-12,Worsened
+34,78,Female,Diabetes,Chemotherapy,2016-10-21,Stable
+35,67,Male,Cancer,Physical Therapy,2014-05-15,Worsened
+36,50,Female,COVID-19,Physical Therapy,2011-04-15,Worsened
+37,68,Female,Diabetes,Physical Therapy,2018-12-01,Improved
+38,20,Male,COVID-19,Surgery,2011-09-16,Deceased
+39,40,Female,Cancer,None,2018-10-03,Recovered
+40,75,Female,Heart Disease,Medication,2022-10-13,Improved
+41,27,Male,Heart Disease,Chemotherapy,2020-08-09,Worsened
+42,22,Female,Diabetes,Surgery,2010-11-17,Improved
+43,32,Male,Cancer,Medication,2020-04-30,Worsened
+44,61,Male,Diabetes,Physical Therapy,2015-05-27,Worsened
+45,51,Male,COVID-19,Chemotherapy,2020-01-01,Stable
+46,63,Female,Cancer,Medication,2018-02-16,Recovered
+47,44,Female,Heart Disease,None,2018-04-25,Worsened
+48,41,Male,Hypertension,Chemotherapy,2021-08-18,Deceased
+49,52,Male,Heart Disease,Medication,2013-03-10,Stable
+50,42,Female,Heart Disease,Surgery,2011-09-30,Improved
+51,25,Male,COVID-19,Chemotherapy,2011-01-16,Improved
+52,50,Female,COVID-19,Surgery,2011-10-09,Improved
+53,49,Female,Cancer,Surgery,2018-10-07,Stable
+54,41,Male,Heart Disease,Surgery,2019-03-27,Recovered
+55,77,Female,Heart Disease,Medication,2020-10-13,Recovered
+56,30,Female,Heart Disease,Physical Therapy,2016-05-02,Stable
+57,26,Female,Heart Disease,Chemotherapy,2012-04-22,Deceased
+58,42,Male,COVID-19,Medication,2014-12-10,Stable
+59,68,Female,Hypertension,Physical Therapy,2015-02-23,Stable
+60,42,Female,Diabetes,Physical Therapy,2022-07-06,Stable
+61,29,Female,Diabetes,Physical Therapy,2021-01-03,Stable
+62,53,Female,Diabetes,Medication,2013-11-13,Improved
+63,42,Male,COVID-19,Chemotherapy,2022-08-21,Improved
+64,72,Female,Hypertension,Physical Therapy,2020-05-13,Recovered
+65,64,Male,Diabetes,Chemotherapy,2019-02-19,Worsened
+66,76,Female,COVID-19,Medication,2014-02-25,Improved
+67,27,Female,COVID-19,Chemotherapy,2022-11-09,Stable
+68,65,Male,Hypertension,Surgery,2020-03-16,Worsened
+69,59,Female,Hypertension,Surgery,2011-05-23,Recovered
+70,62,Male,COVID-19,Medication,2018-10-09,Recovered
+71,70,Male,Heart Disease,None,2013-11-29,Stable
+72,74,Male,Hypertension,Medication,2013-11-22,Improved
+73,63,Male,Cancer,None,2018-11-15,Stable
+74,24,Male,Heart Disease,None,2022-11-23,Deceased
+75,60,Female,COVID-19,None,2019-07-01,Improved
+76,72,Female,COVID-19,Medication,2014-10-24,Deceased
+77,53,Female,COVID-19,Surgery,2016-11-09,Stable
+78,41,Female,Diabetes,Medication,2012-06-10,Deceased
+79,57,Male,Heart Disease,Physical Therapy,2019-11-14,Worsened
+80,75,Male,Heart Disease,Medication,2015-11-23,Stable
+81,46,Female,COVID-19,Physical Therapy,2017-08-27,Improved
+82,70,Male,Hypertension,Medication,2013-07-31,Stable
+83,25,Female,Heart Disease,Surgery,2018-07-26,Stable
+84,22,Female,Diabetes,Medication,2019-12-30,Improved
+85,68,Male,Heart Disease,Surgery,2019-07-28,Recovered
+86,77,Female,COVID-19,Chemotherapy,2014-10-31,Improved
+87,70,Male,Diabetes,Medication,2017-09-26,Deceased
+88,37,Female,Heart Disease,Surgery,2015-05-03,Deceased
+89,54,Female,Diabetes,Surgery,2015-05-13,Stable
+90,48,Female,Diabetes,Physical Therapy,2021-12-01,Improved
+91,56,Female,Hypertension,Chemotherapy,2013-05-13,Improved
+92,70,Male,COVID-19,Physical Therapy,2020-02-07,Stable
+93,65,Male,Hypertension,None,2022-10-26,Recovered
+94,49,Female,Cancer,Surgery,2016-01-17,Worsened
+95,42,Male,Cancer,Chemotherapy,2011-12-17,Recovered
+96,34,Male,Hypertension,Chemotherapy,2022-02-12,Recovered
+97,68,Male,Cancer,Medication,2022-10-31,Deceased
+98,78,Female,Hypertension,Surgery,2019-09-20,Stable
+99,49,Male,Hypertension,Chemotherapy,2013-05-03,Worsened
+100,77,Male,Diabetes,Medication,2019-03-13,Recovered
